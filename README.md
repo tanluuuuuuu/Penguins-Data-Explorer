@@ -1,1 +1,3 @@
-# Penguins-Data-Analysis
+# Penguins Data Explorer
+
+Examine penguin dataset
